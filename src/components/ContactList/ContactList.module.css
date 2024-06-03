@@ -1,0 +1,8 @@
+.contactList {
+  width: 400px;
+  padding-bottom: 20px;
+}
+
+.contactItem:not(:last-child) {
+  margin-bottom: 16px;
+}
